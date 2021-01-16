@@ -30,3 +30,8 @@ DOM을 비교하는 과정에서 리스트는 순차적으로 비교하면서 �
 
 props,state의 값이 바뀌면  render 함수가 다시 호출 
 render 함수 하위에 있는 componenet들이 다시 호출
+
+
+##  e.preventDefault();
+
+debugger 사용시 방해
