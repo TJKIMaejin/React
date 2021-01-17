@@ -13,6 +13,13 @@ component를 구현하는 동작을 바꿀 때 사용함
 ### **props 와 state는 분리해야한다.**
 
 
+![state vs props](https://i.stack.imgur.com/wqvF2.png)
+
+https://i.stack.imgur.com/wqvF2.png
+
+
+
+
 ##   constructor(props)
 
 가장 먼저 실행하는 함수
@@ -35,3 +42,21 @@ render 함수 하위에 있는 componenet들이 다시 호출
 ##  e.preventDefault();
 
 debugger 사용시 방해
+
+
+## target
+이벤트가 소지하고 있는 태그를 가리킴
+
+
+## 수로 바꿔주는 함수
+Number()
+
+## CRUD
+
+CREATE
+
+READ
+
+UPDATE
+
+Delete
